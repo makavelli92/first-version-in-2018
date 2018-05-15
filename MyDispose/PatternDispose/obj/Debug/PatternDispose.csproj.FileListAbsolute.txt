@@ -1,0 +1,6 @@
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\bin\Debug\PatternDispose.exe.config
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\bin\Debug\PatternDispose.exe
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\bin\Debug\PatternDispose.pdb
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\obj\Debug\PatternDispose.csprojResolveAssemblyReference.cache
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\obj\Debug\PatternDispose.exe
+c:\users\anechka\documents\visual studio 2015\Projects\MyDispose\PatternDispose\obj\Debug\PatternDispose.pdb
